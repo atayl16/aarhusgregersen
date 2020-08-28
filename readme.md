@@ -33,6 +33,8 @@
 
 <br />
 <br />
+<br />
+<br />
 
 [![Spotify](https://novatorem.aarhusgregersen.vercel.app/api/spotify)](https://open.spotify.com/user/116432010)
 
@@ -48,7 +50,7 @@
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 
-<img align="left" alt="aarhusgregersens's Github Stats" src="https://vercel.com/aarhusgregersen/github-readme-stats/bh2siu4x6/api?username=aarhusgregersen&show_icons=true&hide_border=true" />
+<img align="left" alt="aarhusgregersens's Github Stats" src="https://github-readme-stats.aarhusgregersen.vercel.app/api?username=aarhusgregersen&show_icons=true&hide_border=true&count_private=true&theme=calm" />
 
 [website]: https://mgregersen.dk
 [workwebsite]: https://introdus.dk
