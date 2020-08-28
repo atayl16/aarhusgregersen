@@ -43,7 +43,10 @@
 
 ---
 
-<img align="left" alt="aarhusgregersens's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
+<img align="left" alt="aarhusgregersens's Github Stats" src="github-readme-stats-mocha-two.vercel.app/api?username=aarhusgregersen&show_icons=true&hide_border=true" />
 
 [website]: https://mgregersen.dk
 [workwebsite]: https://introdus.dk
