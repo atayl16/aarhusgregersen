@@ -61,11 +61,9 @@
 <!--START_SECTION:activity-->
 
 <br />
-<br />
 
 <img align="left" alt="aarhusgregersens's Github Stats" src="https://github-readme-stats.aarhusgregersen.vercel.app/api?username=aarhusgregersen&show_icons=true&hide_border=true&count_private=true&theme=calm" />
 
-<br />
 <br />
 <br />
 <br />
