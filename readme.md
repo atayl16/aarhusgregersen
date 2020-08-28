@@ -41,6 +41,8 @@
 <br />
 <br />
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -50,7 +52,20 @@
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
 
+<br />
+<br />
+
 <img align="left" alt="aarhusgregersens's Github Stats" src="https://github-readme-stats.aarhusgregersen.vercel.app/api?username=aarhusgregersen&show_icons=true&hide_border=true&count_private=true&theme=calm" />
+
+<br />
+<br />
+
+### ⚡ WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 [website]: https://mgregersen.dk
 [workwebsite]: https://introdus.dk
