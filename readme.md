@@ -1,3 +1,11 @@
+![.github/workflows/waka-stats-workflow.yml](https://github.com/aarhusgregersen/aarhusgregersen/workflows/.github/workflows/waka-stats-workflow.yml/badge.svg)
+
+![.github/workflows/update-readme.yml](https://github.com/aarhusgregersen/aarhusgregersen/workflows/.github/workflows/update-readme.yml/badge.svg)
+
+<br>
+
+
+
 ### Hi there, I'm Martin - aka [aarhusgregersen][website] 👋
 
 ## I'm a full time Webdeveloper, part time streamer & 100% Nerd!
